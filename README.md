@@ -10,6 +10,27 @@
   ![image](https://user-images.githubusercontent.com/22957868/61261228-18023980-a7bc-11e9-8c61-3fb684179e2d.png)
 * 게임, 랜덤 이미지, 웹, 앱 등등 위 문구가 표시되면 어떤 결과물도 상관없습니다.
 
+## 실행방법 
+
+* Python 3.7.1 (Anaconda)
+* pip install
+
+```
+$ pip install -r requirements.txt
+```
+
+* export FLASK_APP
+
+```
+$ export FLASK_APP=pythonistas.py
+```
+
+* flask run
+
+```
+$ flask run
+```
+
 ## 규칙
 
 * 파이썬 3.x 이상에서 동작하는 파이썬 프로그래밍 (단, 버전을 명시해주세요)
